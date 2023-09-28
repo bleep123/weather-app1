@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+.search {
+    display: flex;
+    text-align: center;
+}
+
+input {
+    margin-left: 22px;
+    margin-top: 20px;
+    width: 279px;
+}
+
+button {
+    padding: 20px;
+    margin-left: 22px;
+    margin-top: 20px;
+    width: 93px;
+}
+
+h3 {
+    margin-left: -886px;
+    margin-top: 22px;
+}
+
+.circle {
+    background-color: bisque;
+    border-radius: 90px;
+    padding: 25px;
+    margin: 5px;
+}
+
+.temp-list {
+    display: flex;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.day-list {
+    display: flex;
+    text-align: center;
+}
+
+.day {
+    padding: 60px;
+    font-size: 20px;
+}
